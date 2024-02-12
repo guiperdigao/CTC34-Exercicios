@@ -1,1 +1,1 @@
-# forster2
+# CTC-34 - Automata e Linguagens Formais
